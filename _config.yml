@@ -1,6 +1,6 @@
 name: Zfoto
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.23805
 typography_spectrum: 0.0000975604634732008
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#ffffff'
+    - '#3c4f33'
+    - '#b3bbce'
+    - '#202521'
+    - '#9f9158'
   brandStrength: 0
   lightness: 0.5
   saturation: 1
